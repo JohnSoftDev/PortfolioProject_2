@@ -6,4 +6,4 @@ They want to calculate Total Revenue, Average Value per Order, Total Pizzas Sold
 Additionally, they wish to visualize data to understand trends and make data-driven decisions.
 
 Link to PowerBI: 
-https://app.powerbi.com/view?r=eyJrIjoiZmYwNjM2ZjYtMjEyOS00ZWU3LThlYzUtNDVmYmZmYTgyMzA5IiwidCI6IjNlNDcyZTEzLWU2ZmEtNGQ3YS1iNjE2LTA2OGFlNjFlYjE1ZSIsImMiOjR9&embedImagePlaceholder=true&pageName=ReportSection138bb1fe3ffbf2b18f50 
+https://app.powerbi.com/view?r=eyJrIjoiZmYwNjM2ZjYtMjEyOS00ZWU3LThlYzUtNDVmYmZmYTgyMzA5IiwidCI6IjNlNDcyZTEzLWU2ZmEtNGQ3YS1iNjE2LTA2OGFlNjFlYjE1ZSIsImMiOjR9&embedImagePlaceholder=true&pageName=ReportSection 
